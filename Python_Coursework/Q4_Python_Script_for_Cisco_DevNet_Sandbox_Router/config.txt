@@ -1,2 +1,0 @@
-ntp server 10.10.10.10
-ntp server 14.14.14.14
